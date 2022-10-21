@@ -1,1 +1,3 @@
-Git revision for first open source contribution
+Git revision for first open source contribution pull request
+PULL
+REQUEST
