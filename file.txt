@@ -1,1 +1,1 @@
-Git revision for open source contribution
+Git revision for first open source contribution
